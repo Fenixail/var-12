@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(517,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  Rectange.cpp
+C:\Users\NADIM\Desktop\Курсач\ConsoleApplication16\ConsoleApplication16\Rectange.cpp(52,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication16.vcxproj -> C:\Users\NADIM\Desktop\Курсач\ConsoleApplication16\Debug\ConsoleApplication16.exe
